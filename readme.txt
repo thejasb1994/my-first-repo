@@ -1,2 +1,4 @@
 welcome to my first repo
-learning git is going well so far.
+Learning git is going well.
+a new line is added to update-readme branch
+a new line is added to update readme
