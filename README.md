@@ -1,30 +1,26 @@
-# This is a large heading
+# Thejas Bhargav S
 
-## This is a smaller heading
+### HPE - Bizit.Asm Location
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Bangalore, in the state of Karnataka, in India. 
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+ 3 favouritee books are:
+ - *Pale blue dot* by barry
+ - *Harry Potter* by Rowling
+ - *Marvels Comics* by Stan Lee
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Last night I dreamt of eating in these places
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Dosa in Chennai.
+2. Mysore Pak in Mysore.
+3. Noodles in China.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact 
+
+The best way to get in touch with me is [on twitter] (https://twitter.com/thejas) 
 
 nano README.md
